@@ -26,5 +26,21 @@ body {
 
 .search-field {
     padding: .5em;
-    width: 90%;
+    width: 92%;
 }
+
+.search-btn {
+    margin: .5em 0;
+    padding: .5em;
+    width: 100%;
+    background-color: #040404;
+    color: white;
+    border: .5px solid white;
+}
+
+.search-btn:hover {
+    background-color:white;
+    color: #040404;
+    cursor: pointer;
+}
+
